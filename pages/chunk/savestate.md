@@ -48,7 +48,7 @@ Two chests filled with an alternating pattern of type 1 and type 2 savestate boo
 
 ## Creating savestate books
 
-To create savestate books in-game you can use the following autohotkey script: [Xcoms Savestate Book Script](/resources/Xcoms_Automatic_Bookdupe_Paster.ahk)
+To create savestate books in-game you can use the following autohotkey script: [Xcoms Savestate Book Script](/resources/Xcoms_Automatic_Bookdupe_Paster.ahk). Or you can use [EarthComputer's client commands 1.12 version]() and run /cbook in game.
 
 To use it, first install [autohotkey](https://www.autohotkey.com/)
 
